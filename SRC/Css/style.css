@@ -1,14 +1,9 @@
-main{
-    display: flex;
-    justify-content: center;
-   
-   
-}
+
 
 .container{
   background-color: black;
-  max-width: 800px;
- border: solid 10px rebeccapurple;
+  max-width: 100%;
+  height: 100%;
   margin-top: 15px; 
 }
 
@@ -31,7 +26,7 @@ main{
 
 .titulo{
     color: blue;
-   text-align: center;
+    margin-left: 356px;
      
 }
 
@@ -86,15 +81,13 @@ main{
 
 
 .galao-azul{
-    width: 110px;
-    height: 140px;
+    width: 120px;
    
     
 }
 
 .galao-laranja{
     width: 120px;
-    height: 140px;
 
     
     
@@ -113,11 +106,9 @@ main{
 
 .frase ul{
     list-style: none;
-    font-size: 40px;
-    margin: 20px 80px;
-    text-align: center;
-   
-    
+    font-size: 45px;
+    margin: 25px 
+
 
   
 }
