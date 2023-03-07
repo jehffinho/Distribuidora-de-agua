@@ -1,9 +1,17 @@
+main{
 
-
+    display: flex;
+    justify-content: center;
+    
+}
 .container{
   background-color: black;
   max-width: 100%;
+<<<<<<< HEAD
  border: solid 5px blue;
+=======
+  
+>>>>>>> 368b6e4971c13475af8d6ee9172e9cc69df809bc
   margin-top: 15px; 
 }
 
@@ -26,7 +34,7 @@
 
 .titulo{
     color: blue;
-    margin-left: 356px;
+    
      
 }
 
@@ -112,3 +120,5 @@
 
   
 }
+
+
