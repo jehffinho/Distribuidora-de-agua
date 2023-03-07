@@ -1,9 +1,13 @@
+main{
 
-
+    display: flex;
+    justify-content: center;
+    
+}
 .container{
   background-color: black;
   max-width: 100%;
-  height: 100%;
+  
   margin-top: 15px; 
 }
 
@@ -26,7 +30,7 @@
 
 .titulo{
     color: blue;
-    margin-left: 356px;
+    
      
 }
 
@@ -112,3 +116,5 @@
 
   
 }
+
+
