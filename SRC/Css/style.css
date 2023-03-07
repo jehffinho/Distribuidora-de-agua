@@ -19,14 +19,14 @@
 
 .logo-2{
     width: 120px;
-    margin-left: 490px;
+    
     
 
 }
 
 .titulo{
     color: blue;
-    margin-left: 356px;
+    text-align: center;
      
 }
 
@@ -81,12 +81,14 @@
 
 .galao-azul{
     width: 120px;
+  heigth: 140px;
    
     
 }
 
 .galao-laranja{
     width: 120px;
+  heigth: 140px;
 
     
     
@@ -104,8 +106,7 @@
 .frase ul{
     list-style: none;
     font-size: 45px;
-    margin: 25px 
-
-
+    margin: 20px 80px;
+  text-align: center;
   
 }
