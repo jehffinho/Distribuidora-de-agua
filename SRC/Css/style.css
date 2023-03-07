@@ -2,16 +2,13 @@ main{
 
     display: flex;
     justify-content: center;
+    background-color: #4f4f4f;
     
 }
 .container{
   background-color: black;
   max-width: 100%;
-<<<<<<< HEAD
- border: solid 5px blue;
-=======
-  
->>>>>>> 368b6e4971c13475af8d6ee9172e9cc69df809bc
+ border: solid 5px red;
   margin-top: 15px; 
 }
 
