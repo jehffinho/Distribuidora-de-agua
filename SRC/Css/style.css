@@ -8,7 +8,7 @@ main{
 .container{
   background-color: black;
   max-width: 100%;
- border:solid 5px red;
+ border:solid 5px purple;
   margin-top: 15px; 
 }
 
