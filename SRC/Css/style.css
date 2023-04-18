@@ -1,82 +1,87 @@
-main{
+main {
 
     display: flex;
     justify-content: center;
-    background-color: #4f4f4f;
-    
-}
-.container{
-  background-color: black;
-  max-width: 100%;
- border:solid 5px purple;
-  margin-top: 15px; 
+    background-size: cover;
+    height: 100vh;
+
 }
 
+.container {
 
-
-.logo{
-    width: 120px;   
-    
-    
+    width: 100%;
+    border: solid 5px purple;
+    min-height: 100vh;
 }
 
 
 
-.logo-2{
+.logo {
     width: 120px;
-    
-    
+
 
 }
 
-.titulo{
+
+
+.logo-2 {
+    width: 120px;
+
+
+
+
+}
+
+.titulo {
     color: blue;
-    
-     
+
+
 }
 
 
 
-.cabecalho{
+.cabecalho {
+    background-color: black;
     display: flex;
-   align-items: center;
-   margin: 14px;
-   
-     
+    justify-content: center;
+    align-items: center;
+
+
+
 }
 
-.moto{
+.moto {
     width: 120px;
     margin: 18px;
 }
 
-.cabecalho-2{
+.cabecalho-2 {
     display: flex;
     align-items: center;
     background-color: #4f4f4f;
     justify-content: space-between;
-   
 
-    
+
+
 
 }
 
-.contato{
+.contato {
     list-style: none;
     font-size: 35px;
-    margin-right:25px;
+    margin-right: 25px;
     color: aliceblue;
-     
+
 }
 
-.cartoes{
+.cartoes {
     font-size: 27px;
     background-color: aliceblue;
     text-align: center;
     padding: 15px;
 }
 
-.bomba-filtro{
+.bomba-filtro {
     font-size: 42px;
     background-color: red;
     color: aliceblue;
@@ -85,37 +90,35 @@ main{
 }
 
 
-.galao-azul{
-    width: 120px;
-   
-    
+.galao-azul {
+    width: 100px;
+
+
 }
 
-.galao-laranja{
+.galao-laranja {
     width: 120px;
+    
 
-    
-    
+
+
+
 }
 
 .galoes {
-    padding: 15px;
+    margin: 10px;
     display: flex;
     background-color: white;
+    justify-content: space-between;
 
-   
-    
 }
 
 
 
-.frase ul{
+.galoes p {
+    display:flex;
     list-style: none;
     font-size: 45px;
-    margin: 25px 
-
-
-  
+    margin: 25px;
+    
 }
-
-
